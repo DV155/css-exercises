@@ -1,13 +1,13 @@
 .yes-class,
-.noclass {
+.no-class {
   font-size: 28px;
   font-family: "Helvetica", "Times New Roman", serif;
 }
 
-.yesclass {
+.yes-class {
   background-color: black;
   color: white;
 }
-.noclass {
+.no-class {
   background-color: yellow;
 }
