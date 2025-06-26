@@ -7,3 +7,10 @@
   background-color: green;
   font-weight: bold;
 }
+.fat.second {
+  font-size: 30px;
+  font-weight: bold;
+}
+.fat {
+  background-color: red;
+}
