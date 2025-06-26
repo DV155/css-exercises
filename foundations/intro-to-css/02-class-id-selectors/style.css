@@ -1,9 +1,9 @@
 
 #firstid {
-  background-color: red;
+  color: blue;
+  font-size: 22px;
 }
 #secondid {
-  background-color: red;
+  background-color: green;
   font-weight: bold;
-  font-size: 22px;
 }
