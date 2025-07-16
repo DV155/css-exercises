@@ -30,9 +30,11 @@ a {
 }
 
 left-links {
-  margin: left;
+  display: flex;
+  justify-content: left;
 }
 
 right-links {
-  margin: right;
+  display: flex;
+  justify-content: right;
 }
