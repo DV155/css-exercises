@@ -32,7 +32,7 @@ body {
   font-style: italic;
   display: flex;
   justify-content: start;
-  margin-left: 16px 8px;
+  margin: 16px 8px;
 }
 
 button {
