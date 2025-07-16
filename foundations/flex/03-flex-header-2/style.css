@@ -57,7 +57,7 @@ ul {
   flex-direction: row;
 }
 
-notifications {
+.notifications {
   display: flex;
   justify-content: end;
 }
