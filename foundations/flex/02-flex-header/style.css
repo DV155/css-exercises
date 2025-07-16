@@ -31,10 +31,10 @@ a {
 
 left-links {
   display: flex;
-  justify-content: left;
+  justify-content: start;
 }
 
 right-links {
   display: flex;
-  justify-content: right;
+  justify-content: end;
 }
