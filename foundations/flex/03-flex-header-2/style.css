@@ -32,6 +32,8 @@ body {
   font-style: italic;
   display: flex;
   justify-content: start;
+  margin-left: 16px;
+  margin-right: 8px;
 }
 
 button {
@@ -46,7 +48,7 @@ a {
   /* this removes the line under our links */
   text-decoration: none;
   color: rebeccapurple;
-  margin: 16px;
+  margin: 8px;
 }
 
 ul {
@@ -58,5 +60,4 @@ ul {
 notifications {
   display: flex;
   justify-content: end;
-
 }
