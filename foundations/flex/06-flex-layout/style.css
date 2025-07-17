@@ -44,10 +44,14 @@ input {
 }
 
 .footer .left-links {
+  display: flex;
+  gap: 16px;
 
 }
 
 .footer .right-links {
+  display: flex;
+  gap: 16px;
 
 }
 
