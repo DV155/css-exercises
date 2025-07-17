@@ -21,7 +21,6 @@ img {
   width: 200px;
   gap: 52px;
   display: flex;
-  justify-content: center;
   flex-wrap: wrap;
   flex-direction: row;
   
