@@ -22,7 +22,7 @@ img {
   width: 200px;
   display: flex;
   flex-wrap: wrap;
-  flex-direction: column;
+  flex-direction: row;
   
 
 }
