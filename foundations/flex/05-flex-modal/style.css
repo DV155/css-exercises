@@ -17,7 +17,7 @@ body {
 
 .header {
   font-weight: bold;
-  font-size: 32px;
+  font-size: 22px;
   margin-right: auto;
   display: flex;
 }
@@ -46,7 +46,6 @@ body {
   border-radius: 50%;
   display: flex;
   align-items: start;
-  justify-content: start;
 }
 
 .close-button {
