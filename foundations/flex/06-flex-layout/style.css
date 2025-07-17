@@ -40,15 +40,16 @@ input {
 .footer {
 
   background-color: #eeeeee;
-  display: inline-block;
 }
 
 .footer.left-links {
+  display: inline-block;
   margin-left: auto;
 
 }
 
 .footer.right-links {
+  display: inline-block;
   margin-right: auto;
 
 }
