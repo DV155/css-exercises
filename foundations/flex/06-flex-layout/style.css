@@ -38,7 +38,6 @@ input {
 }
 
 .header {
-  background-color: #eeeeee;
   display: flex;
   justify-content: space-between;
 }
