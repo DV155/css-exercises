@@ -41,6 +41,8 @@ input {
 
   background-color: #eeeeee;
   display: flex;
+  flex-direction: row;
+  
 
 }
 
