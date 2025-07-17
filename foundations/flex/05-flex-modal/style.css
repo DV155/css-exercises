@@ -16,6 +16,8 @@ body {
 }
 
 .header {
+  font-weight: bold;
+  font-size: 32px;
   margin-right: auto;
   display: flex;
 }
