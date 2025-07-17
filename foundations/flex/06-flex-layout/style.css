@@ -42,13 +42,13 @@ input {
   background-color: #eeeeee;
 }
 
-.footer.left-links {
+.footer .left-links {
   display: inline-block;
   margin-left: auto;
 
 }
 
-.footer.right-links {
+.footer .right-links {
   display: inline-block;
   margin-right: auto;
 
