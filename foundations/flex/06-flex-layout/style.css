@@ -40,6 +40,19 @@ input {
 .footer {
 
   background-color: #eeeeee;
+  display: flex;
+
+}
+
+.footer.left-links {
+  display: flex;
+  justify-content: start;
+
+}
+
+.footer.right-links {
+  display: flex;
+  justify-content: end;
 
 }
 
