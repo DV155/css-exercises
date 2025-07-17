@@ -37,6 +37,26 @@ input {
   width: 400px;
 }
 
+.header {
+  background-color: #eeeeee;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header .left-links {
+  display: flex;
+  gap: 16px;
+  margin-left: 16px;
+
+}
+
+.header .right-links {
+  display: flex;
+  gap: 16px;
+  margin-right: 16px;
+
+}
+
 .footer {
   background-color: #eeeeee;
   display: flex;
