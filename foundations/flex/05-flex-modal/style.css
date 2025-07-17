@@ -16,13 +16,13 @@ body {
 }
 
 .header {
+  margin-left: auto;
   display: flex;
-  justify-content: center;
 }
 
 .text {
+  margin-left: auto;
   display: flex;
-  justify-content: center;
   flex-wrap: wrap;
 }
 
@@ -32,6 +32,7 @@ body {
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
   padding: 32px;
+  margin-left: auto;
 }
 
 .icon {
