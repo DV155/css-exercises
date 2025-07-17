@@ -42,3 +42,7 @@ input {
   background-color: #eeeeee;
 
 }
+
+ul {
+  list-style-type: none;
+}
