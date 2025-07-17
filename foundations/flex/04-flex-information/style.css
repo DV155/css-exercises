@@ -19,7 +19,6 @@ img {
 }
 
 .text {
-  gap: 52px;
   width: 200px;
   display: flex;
   flex-wrap: wrap;
