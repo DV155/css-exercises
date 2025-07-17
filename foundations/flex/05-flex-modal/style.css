@@ -24,6 +24,7 @@ body {
 
 .text {
   margin-right: auto;
+  margin: 8px;
   display: flex;
   flex-wrap: wrap;
 }
