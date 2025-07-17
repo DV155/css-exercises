@@ -43,10 +43,6 @@ input {
   justify-content: space-between;
 }
 
-.footer ul {
-  margin: 0;
-}
-
 .footer .left-links {
   display: flex;
   gap: 16px;
