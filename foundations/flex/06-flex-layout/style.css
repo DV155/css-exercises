@@ -40,18 +40,14 @@ input {
 .footer {
 
   background-color: #eeeeee;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
+  display: inline-block;
 }
 
 .footer.left-links {
-  display: flex;
 
 }
 
 .footer.right-links {
-  display: flex;
   margin-right: auto;
 
 }
