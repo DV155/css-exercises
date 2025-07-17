@@ -21,6 +21,7 @@ body {
 }
 
 .text {
+  margin-left: auto;
   display: flex;
   justify-content: center;
 }
