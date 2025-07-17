@@ -26,6 +26,7 @@ img {
 button {
   font-family: Roboto, sans-serif;
   border: none;
+  padding: 32px;
   border-radius: 8px;
   background: #eee;
 }
