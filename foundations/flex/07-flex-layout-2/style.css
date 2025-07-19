@@ -14,6 +14,8 @@ body {
   font-weight: 900;
   background: darkmagenta;
   color: white;
+  display: flex;
+  flex-direction: column;
 }
 
 .footer {
@@ -23,6 +25,7 @@ body {
   color: darkmagenta;
   text-align: center;
   display: flex;
+  flex-direction: column;
   justify-content: space-between;
 }
 
