@@ -9,6 +9,7 @@ body {
 
 .header {
   height: 72px;
+  padding: 16px;
   background: darkmagenta;
   color: white;
 }
@@ -16,6 +17,7 @@ body {
 .footer {
   height: 72px;
   background: #eee;
+  padding: 16px;
   color: darkmagenta;
   display: flex;
   flex-direction: column;
@@ -24,8 +26,16 @@ body {
 
 .sidebar {
   width: 300px;
+  display: flex;
+  flex-shrink: 0;
   background: royalblue;
   box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  font-size: 24px;
+  color: white;
 }
 
 .card {
